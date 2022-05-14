@@ -1,7 +1,5 @@
 # SVM-based cell detection and counting for histology data
 
----
-
 > **tl;dr**: This repository contains a suite of MATLAB scripts that allow its users to automatically detect and count cells from histology data. This is achieved by training an ensemble of [Support-Vector Machine (SVM)](https://en.wikipedia.org/wiki/Support-vector_machine)-based classifiers on a few manually annotated representative examples of cells. After training, these classifiers can be used to automatically detect similar cells in novel sections.
 > 
 
