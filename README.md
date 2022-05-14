@@ -148,3 +148,5 @@ The repository has the following architecture:
             - Parameters:
                 - **param_BBExtension**: type of cell annotations to use.
                 - **param_resultFile_path**: path to the result .csv file.
+
+![figure 2](./figure_02_example.png)
